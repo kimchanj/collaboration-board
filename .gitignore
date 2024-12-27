@@ -1,0 +1,12 @@
+# Java 관련
+*.class
+/target
+*.log
+
+# Node.js 관련
+/node_modules
+/dist
+
+# OS 관련
+.DS_Store
+Thumbs.db
