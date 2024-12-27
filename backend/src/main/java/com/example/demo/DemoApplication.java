@@ -17,6 +17,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "게시판 프로젝트!";
+		return "게시판 프로젝트 시작!";
 	}
 }
